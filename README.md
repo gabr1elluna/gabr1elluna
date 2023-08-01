@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gabriel Luna, i'm a Science Computer student at UNIFAP and i'm 18 years old.
 - 🌱 I’m currently learning programming in C.
-- 📫 How to reach me -> E-mail: @sougabrielluna@gmail.com
+- 📫 How to reach me -> E-mail: sougabrielluna@gmail.com
