@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gabriel Luna, i'm a Science Computer student at UNIFAP and i'm 18 years old.
-- 📖 I’m currently learning programming in C and JavaScript.
+- 📖 I’m currently learning programming.
 - 🗨  I can speak portuguese and english, i'd like to learn other languages either in the near future.
 - 📫 How to reach me -> E-mail: sougabrielluna@gmail.com
