@@ -1,8 +1,8 @@
-## 👋 Hello :)
-Hi, I’m Gabriel Luna, i'm currently studying Science Computer at UNIFAP and i'm 18 years old.
-I'm from Brazil, to be more specific, borned in Recife, Pernambuco.
-I can speak portuguese and english. Currently studying french.
-More information down below :)
+# 👋 Hello :)
++ Hi, I’m Gabriel Luna, i'm currently studying Science Computer at UNIFAP and i'm 18 years old.
++ I'm from Brazil, to be more specific, borned in Recife, Pernambuco.
++ I can speak portuguese and english. Currently studying french.
++ More information down below :)
 # Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
