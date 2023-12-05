@@ -1,6 +1,7 @@
 ## 👋 Hello :)
 Hi, I’m Gabriel Luna, i'm currently studying Science Computer at UNIFAP and i'm 18 years old.
- I can speak portuguese and english. Currently studying french.
+
+I can speak portuguese and english. Currently studying french.
 
 # Skills
 
