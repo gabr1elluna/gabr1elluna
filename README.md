@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elluna&theme=highcontrast&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  
 </a>
 
 # Where to find me!
