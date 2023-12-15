@@ -1,4 +1,4 @@
-# 👋 Hello :)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello :)
 + Hi, I’m Gabriel Luna, i'm currently studying Science Computer at UNIFAP and i'm 18 years old.
 + I'm from Brazil, to be more specific, borned in Recife, Pernambuco.
 + I can speak portuguese and english. Currently studying french.
