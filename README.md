@@ -19,7 +19,7 @@
 
 # Where to find me!
 
-[![Gmail Badge](https://img.shields.io/badge/-sougabrielluna@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sougabrielluna@gmail.com)](mailto:sougabrielluna@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-gabr1elluna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabr1elluna/)](https://www.linkedin.com/in/gabr1elluna/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:sougabrielluna@gmail.com)](mailto:sougabrielluna@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabr1elluna/)](https://www.linkedin.com/in/gabr1elluna/)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/gabr1elluna/)](https://instagram.com/gabr1elluna/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/gabr1elluna/)](https://github.com/gabr1elluna)
