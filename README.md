@@ -4,7 +4,7 @@
 + I can speak portuguese and english fluently. Also have some basic knowledge on spanish and french.
 + Currently practicing front-end skills and studying CyberSecurity.
 + More information down below :)
-# Skills
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elluna&theme=highcontrast&show_icons=true"/>
 </a>
 
-# Where to find me!
+## Where to find me!
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:sougabrielluna@gmail.com)](mailto:sougabrielluna@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabr1elluna/)](https://www.linkedin.com/in/gabr1elluna/)
