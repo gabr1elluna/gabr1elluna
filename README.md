@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hello :)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hello World :)
 <img src="https://th.bing.com/th/id/OIP.fpIIHAQOU9JvK48IYnwVhAAAAA?rs=1&pid=ImgDetMain" min-width="150px" width="150px" align="right">
 
 + Hi, I’m Gabriel Luna, i'm currently studying Computer Science at Universidade Federal do Amapá (UNIFAP)
@@ -13,6 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=D3D3D3)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=1E90FF)
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elluna&theme=highcontrast&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
