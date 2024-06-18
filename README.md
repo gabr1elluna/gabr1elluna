@@ -16,10 +16,10 @@
 
 </br>
 </br>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/gabr1elluna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elluna&theme=highcontrast&hide_langs_below=1" alt=""/>
 </a>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/gabr1elluna">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elluna&theme=highcontrast&show_icons=true"/>
 </a>
 
