@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Hello World :)
-<img src="https://th.bing.com/th/id/OIP.fpIIHAQOU9JvK48IYnwVhAAAAA?rs=1&pid=ImgDetMain" min-width="150px" width="150px" align="right">
+<img src="https://github.com/gabr1elluna/gabr1elluna/assets/129898415/59ec17f8-63a7-4953-9188-ba344f6280da" min-width="150px" width="150px" align="right">
 
 + Hi, I’m Gabriel Luna, i'm currently studying Computer Science at Universidade Federal do Amapá (UNIFAP)
 + I'm a 19 years old man from Brazil, borned in Recife, Pernambuco.
