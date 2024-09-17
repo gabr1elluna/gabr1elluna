@@ -3,7 +3,7 @@
 
 + Hi, I’m Gabriel Luna, i'm currently studying Computer Science at Universidade Federal do Amapá (UNIFAP)
 + I'm a 19 years old man from Brazil, borned in Recife, Pernambuco.
-+ I can speak portuguese and english fluently. Also have some basic knowledge on spanish and french.
++ I can speak portuguese and english fluently. Also, i have some basic knowledge on spanish and french.
 + More information down below :)
 
 ## Skills & Tools
@@ -14,6 +14,7 @@
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="36px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+<img align="left" alt="IntelliJ" width="32px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"/>
 <img align="left" alt="VSCode" width="32px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
 <img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 
