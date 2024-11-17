@@ -17,6 +17,8 @@
 <img align="left" alt="IntelliJ" width="32px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"/>
 <img align="left" alt="VSCode" width="32px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
 <img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+<img align="left" alt="Postman" width="32px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
+<img align="left" alt="Linux" width="32px" src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png"/>
 
 </br>
 </br>
