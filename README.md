@@ -2,7 +2,7 @@
 <img src="https://github.com/gabr1elluna/gabr1elluna/assets/129898415/59ec17f8-63a7-4953-9188-ba344f6280da" min-width="150px" width="150px" align="right">
 
 + Hi there! I'm Gabriel Luna and i'm currently a Computer Science student at Universidade Federal do Amapá (UNIFAP) and intern at Tribunal Regional do Trabalho da 8ª Região
-+ I'm a 20 years old guy from Brazil, Recife - Pernambuco.
++ I'm a 21 years old guy from Brazil, Recife - Pernambuco.
 + I can speak portuguese and english fluently.I also have some basic knowledge on spanish and french.
 + More information down below :)
 
